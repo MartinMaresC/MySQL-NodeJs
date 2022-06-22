@@ -1,0 +1,23 @@
+{
+  "name": "mysql-nodejs",
+  "version": "1.0.0",
+  "description": "conexion mysql desde nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinMaresC/MySQL-NodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinMaresC/MySQL-NodeJs/issues"
+  },
+  "homepage": "https://github.com/MartinMaresC/MySQL-NodeJs#readme",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
